@@ -35,4 +35,10 @@
   Sabemos que o trabalho em Tech mudou. As profissões se tornaram mais líquidas e as fronteiras entre elas já não estão bem definidas. Apenas se especializar em desenvolvimento de software não basta para ser um bom dev. Para realmente entregar resultados é necessário que, além de aprofundar e mergulhar de cabeça na sua área, você também navegue em outras vertentes de tecnologia, como UX, Marketing Digital ou Data Science, por exemplo. A Alura carrega a percepção de que o profissional de hoje precisa ser um profissional em <T>.
 </p>
 
-:link: [Visite o site da Alura](https://www.alura.com.br/sobre?_gl=1*g12tvs*_ga*ODMyNjI5Nzk3LjE2OTU3NjAyNzE.*_ga_1EPWSW3PCS*MTcwNTMzMTI2My4xOTQuMS4xNzA1MzMyNDQwLjAuMC4w*_fplc*TUxkTmhWQ3pFUmx0bjZzSm1xbEJaY3AlMkJoUnRaamFBZGtuOU1STzZkNXRoT2ZHQXROTFF0WlVyTzhJanJlQTRod01Ib0VwVGpUa1p0Z1p5anhGU2JKTHo1aWtKR2tDZTU0Mk5qeDVqQ0lTSXJMUVpKUGJQYXJTRnRZT2g2c2clM0QlM0Q.)
+## :link: redes sociais:
+
+:triangular_flag_on_post: [Instagram](https://www.instagram.com/aluraonline/)
+:triangular_flag_on_post: [Youtube](https://www.youtube.com/@alura)
+:triangular_flag_on_post: [Linkedin](https://www.linkedin.com/school/aluracursos/)
+:triangular_flag_on_post: [Twitter](https://twitter.com/AluraOnline)
+
