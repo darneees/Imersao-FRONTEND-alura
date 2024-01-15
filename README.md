@@ -24,6 +24,12 @@
   :pushpin: Sobre  Alura:
 </h1>
 
+<strong>
+  A Alura compõe o maior ecossistema de ensino em tecnologia do Brasil e tem como missão transformar vidas e carreiras.
+</strong>
+
 <p>
-  A Alura a maior escola de tecnologia do Brasil, e já impactou mais de um milhão de pessoas. Seja com as Imersões, conteúdos gratuitos ou com os mais de 1.450 cursos da plataforma, a Alura transforma vidas e carreiras.
+  Sabemos que o trabalho em Tech mudou. As profissões se tornaram mais líquidas e as fronteiras entre elas já não estão bem definidas. Apenas se especializar em desenvolvimento de software não basta para ser um bom dev. Para realmente entregar resultados é necessário que, além de aprofundar e mergulhar de cabeça na sua área, você também navegue em outras vertentes de tecnologia, como UX, Marketing Digital ou Data Science, por exemplo. A Alura carrega a percepção de que o profissional de hoje precisa ser um profissional em <T>.
 </p>
+
+:link: [Visite o site da Alura](https://www.alura.com.br/sobre?_gl=1*g12tvs*_ga*ODMyNjI5Nzk3LjE2OTU3NjAyNzE.*_ga_1EPWSW3PCS*MTcwNTMzMTI2My4xOTQuMS4xNzA1MzMyNDQwLjAuMC4w*_fplc*TUxkTmhWQ3pFUmx0bjZzSm1xbEJaY3AlMkJoUnRaamFBZGtuOU1STzZkNXRoT2ZHQXROTFF0WlVyTzhJanJlQTRod01Ib0VwVGpUa1p0Z1p5anhGU2JKTHo1aWtKR2tDZTU0Mk5qeDVqQ0lTSXJMUVpKUGJQYXJTRnRZT2g2c2clM0QlM0Q.)
