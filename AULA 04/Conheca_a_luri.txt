@@ -1,0 +1,16 @@
+Nessa Imersão Front-end, você vai contar com a Luri, a Inteligência Artificial da Alura, Powered by Chat GPT e treinada com todo o conteúdo da Imersão.
+
+Durante as cinco aulas, você pode conversar com a nossa IA para **se aprofundar, entender o seu código linha a linha e se destacar em seus estudos de maneira única**.
+
+É possível **perguntar qualquer coisa relacionada ao tema da aula da Imersão**, revisar os desafios práticos, tirar dúvidas e pedir ajuda, através de um chat intuitivo e fácil de usar.
+
+A Luri não é um chatbot, é uma Inteligência Artificial desenvolvida pelo time da Alura com toda a tecnologia da versão 3.5 Plus do Chat GPT e treinada para te ajudar, de forma personalizada, a estudar com o conteúdo exclusivo da Alura e se aprofundar nos temas que você tem dúvida.
+
+**Dicas para obter melhores resultados com a Luri:**
+
+Se você quiser obter resultados ainda melhores ao usar a Luri, aqui estão algumas dicas valiosas:
+
+- Seja específico(a) em suas perguntas;
+- Forneça contexto para sua pergunta;
+- Dê exemplos do que você precisa;
+- Seja claro(a) sobre o formato desejado para a resposta (tabela? Markdown? Lista ordenada?).
