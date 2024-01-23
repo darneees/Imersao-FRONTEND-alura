@@ -10,6 +10,12 @@
 - ``ANGULAR``
 - ``REACT``
 
+## :mag: INSTRUTORES:
+
+:1st_place_medal: [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/)
+:1st_place_medal: [Fernanda Degolin](https://www.linkedin.com/in/fernandadegolin/)
+:1st_place_medal: [Mayara Cardoso](https://www.linkedin.com/in/mayara-cardoso-556a45162/)
+
 ## :spiral_calendar: CRONOGRAMA:
 
 | DATAS  | TITULOS DAS AULAS | TEMPO P/AULA |
