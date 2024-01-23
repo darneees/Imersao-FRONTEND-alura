@@ -41,4 +41,3 @@
 :triangular_flag_on_post: [Youtube](https://www.youtube.com/@alura)
 :triangular_flag_on_post: [Linkedin](https://www.linkedin.com/school/aluracursos/)
 :triangular_flag_on_post: [Twitter](https://twitter.com/AluraOnline)
-
