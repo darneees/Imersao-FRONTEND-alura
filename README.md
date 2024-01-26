@@ -21,12 +21,12 @@
 | DATAS  | TITULOS DAS AULAS | TEMPO P/AULA |
 | ------------- | ------------- | ------------- |
 | 22/01  | LIVE DE ABERTURA: 18:30 PM | N/A |
-| 22/01  | Aula 01: Revisão: HTML, CSS e JS na Prática  | 1:17:32 |
+| 22/01  | Aula 01: Revisão: HTML, CSS e JS na Prática  | 01:17:32 |
 | 23/01  | Aula 02: Estilo Avançado e Posicionamento: Transformando Layouts | 58:23 |
 | 24/01  | Aula 03: Design Responsivo: Adaptando-se a Todas as Telas | 58:33 |
 | 24/01  | LIVE INTERMEDIÁRIA: 18:30 PM | N/A |
 | 25/01  | Aula 04: JavaScript Dinâmico: Interatividade na Página | 1:20:14 |
-| 26/01  | Aula 05: Frameworks e Eficiência: Introdução ao React e Angular | ... |
+| 26/01  | Aula 05: Frameworks e Eficiência: Introdução ao React e Angular | 01:00:40 |
 | 29/01  | LIVE DE ENCERRAMENTO: 18:30 PM | N/A |
 
 <h1>
