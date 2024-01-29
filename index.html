@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="clone do spotify">
+        <link rel="shortcut icon" href="assets/icons/favicon.png"
+            type="image/x-icon">
+        <!-- import css -->
+        <link rel="stylesheet" href="css/style.css">
+        <!-- import icon -->
+        <script src="https://unpkg.com/@phosphor-icons/web"></script>
+        <title>Alurafy - Web Player: Music for everyone</title>
+    </head>
+    <body>
+
+        <main id="main-container">
+
+            <article class="main-popup popup">
+                <i class="ph-bold ph-x" id="close"></i>
+
+                <div class="popup-content">
+                    <p><strong>Preview of Spotify</strong></p>
+                    <p>Sign up to unlimited songs and podcasts with occasional
+                        ads. No credit card needed.</p>
+                </div>
+
+                <a href="#" class="popup-button">
+                    Sign up free
+                </a>
+            </article>
+
+            <aside class="side-bar">
+
+                <header class="side-header">
+                    <picture class="side-logo">
+                        <img src="assets/icons/logo-spotify.png"
+                            alt="logo Alurafy" title="logo Alurafy">
+                    </picture>
+
+                    <nav class="side-nav">
+                        <menu class="menu-list">
+                            <li class="link">
+                                <a href="#">
+                                    <i class="ph-fill ph-house"></i>
+                                    Home
+                                </a>
+                            </li>
+                            <li class="link">
+                                <a href="#">
+                                    <i class="ph-bold ph-magnifying-glass"></i>
+                                    Search
+                                </a>
+                            </li>
+                        </menu>
+                    </nav>
+
+                    <button id="open_menu">
+                        <i class="ph-bold ph-squares-four"></i>
+                    </button>
+
+                    <menu class="mobile_menu">
+                        <li class="link">
+                            <a href="#">
+                                <i class="ph-fill ph-house"></i>
+                                Home
+                            </a>
+                        </li>
+
+                        <li class="link">
+                            <a href="#">
+                                <i class="ph-bold ph-magnifying-glass"></i>
+                                Search
+                            </a>
+                        </li>
+
+                        <span class="line"></span>
+
+                        <article class="mobile_button">
+                            <button>
+                                <p>Playlist</p>
+                                <i class="ph-bold ph-plus"></i>
+                            </button>
+    
+                            <button>
+                                <p>Podcasts</p>
+                                <i class="ph-bold ph-plus"></i>
+                            </button>
+                        </article>
+                    
+                    </menu>
+                </header>
+
+                <main class="side-main">
+                    <article class="block">
+                        <div>
+                            <i class="ph-bold ph-columns"></i>
+                            <p>Your Library</p>
+                        </div>
+
+                        <i class="ph-bold ph-plus"></i>
+                    </article>
+
+                    <article class="block">
+                        <h1>Create Playlist</h1>
+                        <p>It's easy, we'll help you</p>
+                        <button>
+                            <p>Create playlist</p>
+                        </button>
+                    </article>
+
+                    <article class="block">
+                        <h1>find Podcasts</h1>
+                        <p>We'll keep you update on new episodes</p>
+                        <button>
+                            <p>browse podcasts</p>
+                        </button>
+                    </article>
+
+                    <article class="block">
+                        <div>
+                            <p>About Ads</p>
+                            <p>Cookies</p>
+                            <p>Acessibility</p>
+                        </div>
+
+                        <button>
+                            <i class="ph-bold ph-globe"></i>
+                            <select name id>
+                                <option value="1">English</option>
+                                <option value="2">Português</option>
+                            </select>
+                        </button>
+                    </article>
+                </main>
+            </aside>
+
+            <section class="sec-content">
+                <header class="sec-header">
+                    <article class="sec-navigation">
+                        <button class="arrow">
+                            <i class="ph-bold ph-caret-left"></i>
+                        </button>
+                        <button class="arrow">
+                            <i class="ph-bold ph-caret-right"></i>
+                        </button>
+                    </article>
+
+                    <article class="sec-user">
+                        <button class="link"><a href="#">Sign in</a></button>
+                        <button class="link"><a href="#">login</a></button>
+                    </article>
+                </header>
+
+                <main class="sec-main">
+                    <section class="sec-top">
+                        <h1>Browser all</h1>
+                    </section>
+
+                    <section class="sec-cards">
+
+                        <article class="card">
+                            <h2>Christmas Hits</h2>
+
+                            <picture>
+                                <img src="assets/playlist/1.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Pop Mix</h2>
+
+                            <picture>
+                                <img src="assets/playlist/2.png" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>New music friday</h2>
+
+                            <picture>
+                                <img src="assets/playlist/3.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Pod delas</h2>
+
+                            <picture>
+                                <img src="assets/playlist/4.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>beast Mode</h2>
+
+                            <picture>
+                                <img src="assets/playlist/5.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Science</h2>
+
+                            <picture>
+                                <img src="assets/playlist/6.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Esquenta sertanejo</h2>
+
+                            <picture>
+                                <img src="assets/playlist/7.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Pagodeira</h2>
+
+                            <picture>
+                                <img src="assets/playlist/8.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Funk</h2>
+
+                            <picture>
+                                <img src="assets/playlist/9.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Aquarela brasileira</h2>
+
+                            <picture>
+                                <img src="assets/playlist/10.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Rock this</h2>
+
+                            <picture>
+                                <img src="assets/playlist/11.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Rap caviar</h2>
+
+                            <picture>
+                                <img src="assets/playlist/12.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>All new indie</h2>
+
+                            <picture>
+                                <img src="assets/playlist/13.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Chill vibe</h2>
+
+                            <picture>
+                                <img src="assets/playlist/14.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Viva latino</h2>
+
+                            <picture>
+                                <img src="assets/playlist/15.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Pop mix</h2>
+
+                            <picture>
+                                <img src="assets/playlist/6.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Rock this</h2>
+
+                            <picture>
+                                <img src="assets/playlist/2.png" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Chill vibes</h2>
+
+                            <picture>
+                                <img src="assets/playlist/11.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Christmas Hits</h2>
+
+                            <picture>
+                                <img src="assets/playlist/14.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Christmas Hits</h2>
+
+                            <picture>
+                                <img src="assets/playlist/1.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>New music friday</h2>
+
+                            <picture>
+                                <img src="assets/playlist/3.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                        <article class="card">
+                            <h2>Esuenta sertanejo</h2>
+
+                            <picture>
+                                <img src="assets/playlist/7.jpeg" alt="img">
+                            </picture>
+                        </article>
+
+                    </section>
+
+                    <!-- <section class="sec-subpages">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur quisquam harum itaque voluptate odit inventore corrupti alias vel earum, eaque similique quas dolore modi impedit totam? Delectus amet fugit dolorem.</p>
+                    </section> -->
+                </main>
+            </section>
+        </main>
+
+        <script src="https://kit.fontawesome.com/230c6978e0.js"
+            crossorigin="anonymous"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>
